@@ -1,0 +1,5 @@
+todo_list.json,
+pycache/,
+*.pyc,
+.vscode/,
+.idea/,
